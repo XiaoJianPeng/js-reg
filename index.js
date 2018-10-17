@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   mail: /^[1-9]\d{5}(?!\d)$/,
   email: /\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/,
   chinese: /[\u4e00-\u9fa5]/gm,
