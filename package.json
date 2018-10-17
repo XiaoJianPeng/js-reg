@@ -1,0 +1,25 @@
+{
+  "name": "js-reg",
+  "version": "0.1.0",
+  "description": "JavaScript常用正则表达式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/js-reg.git"
+  },
+  "keywords": [
+    "regexp",
+    "正则表达式",
+    "youngjuning",
+    "杨俊宁"
+  ],
+  "author": "杨俊宁",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/js-reg/issues"
+  },
+  "homepage": "https://github.com/youngjuning/js-reg#readme"
+}
